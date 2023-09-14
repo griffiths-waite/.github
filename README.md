@@ -1,1 +1,1 @@
-# .github
+Enterprise software delivery experts based out of Birmingham, UK. We specialise in leveraging JavaScript and AI to fulfil legacy transformation projects across Oracle and Azure technologies. We excel at coexisting next generation technologies with legacy projects, accelerating time to value on delivery and sweating your existing assets.
